@@ -35,7 +35,7 @@ yarn add @stackoverflow/teams-sdk
 Using pnpm:
 
 ```bash
-yarn add @stackoverflow/teams-sdk
+pnpm add @stackoverflow/teams-sdk
 ```
 
 ## 📚 Documentation
